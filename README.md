@@ -1,1 +1,1 @@
-Program for Isiris 
+Program for Osiris 
