@@ -2,5 +2,7 @@
 
 ## Specifications
 -Swerve drive
+
 -Cascade lift
+
 -Flywheel intake
